@@ -1,6 +1,29 @@
 # Kiva_NLP
 
+Pair programmed with Match Du Toit github.com/matchdutoit
+
 ## Conclustions and Recommendations
+
+**Identified eight clusters with following themes (unordered)**:
+- Family  
+- Water related
+- School / Electricity
+- Farming
+- Christian affiliation
+- Philippino Business
+- Kenyan Business
+- Group by Auto translation template
+
+**How to Use**
+
+1. Each cluster provides the top popular words and also the descriptions with strongest signals.
+
+2. Example:
+Below is the description with the highest weight on water cluster:
+
+![water](https://github.com/liyouzhang/Kiva_NLP/blob/master/pictures/Example_water.jpeg?raw=true)
+
+
 
 
 
