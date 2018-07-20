@@ -1,4 +1,4 @@
-# Kiva_NLP
+# Borrowers Clustering with NLP
 
 Pair programmed with Match Du Toit github.com/matchdutoit
 
