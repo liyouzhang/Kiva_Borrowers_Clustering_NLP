@@ -27,7 +27,7 @@ Below is the description with the highest weight on water cluster:
 
 
 
-## Movitation
+## Movivation
 
 **About Kiva**
 Kiva is an international nonprofit founded in 2005 with a mission to connect people through lending to alleviate poverty. In June 2018 Kiva was in 85 countries, and had served 2.9 Million borrowers through $ 1.16 Billion worth of loans.
