@@ -1,4 +1,4 @@
-# Borrowers Clustering with NLP
+# Microfinance Loans Clustering with NLP
 
 Pair programmed with Match Du Toit github.com/matchdutoit
 
